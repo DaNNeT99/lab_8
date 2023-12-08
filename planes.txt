@@ -1,0 +1,9 @@
+PlaneTypes.Plane{name=Аврора, fuelCapacity=28000, fuelConsumption=40, boardCapacity=220, maxFlightLength=2200, availability=Available}
+PlaneTypes.Plane{name=Ікар, fuelCapacity=25000, fuelConsumption=15, boardCapacity=210, maxFlightLength=2100, availability=Discalled}
+PlaneTypes.Plane{name=Гестія, fuelCapacity=23000, fuelConsumption=15, boardCapacity=200, maxFlightLength=2000, availability=Available}
+PlaneTypes.Plane{name=Венера, fuelCapacity=380, fuelConsumption=40, boardCapacity=24, maxFlightLength=950, availability=Available}
+PlaneTypes.Plane{name=Меркурій, fuelCapacity=350, fuelConsumption=20, boardCapacity=22, maxFlightLength=900, availability=underMaintanance}
+PlaneTypes.Plane{name=Тефон, fuelCapacity=300, fuelConsumption=30, boardCapacity=20, maxFlightLength=800, availability=Available}
+PlaneTypes.Plane{name=Апометей, fuelCapacity=3500, fuelConsumption=25, boardCapacity=0, maxFlightLength=450, availability=underMaintenance}
+PlaneTypes.Plane{name=Сатурн, fuelCapacity=3200, fuelConsumption=18, boardCapacity=0, maxFlightLength=430, availability=Available}
+PlaneTypes.Plane{name=Ерида, fuelCapacity=2500, fuelConsumption=25, boardCapacity=0, maxFlightLength=400, availability=underMaintanance}
